@@ -11,4 +11,4 @@ if level == 25:
   
   #if you want, you can add an another sentence
   #else:
-  #print("This sentece will be shown if the level is not equal to 25 or 50")
+  #print("This sentece will be shown if the level is not equal to 25, 50 or any other number")
